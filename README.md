@@ -1,4 +1,4 @@
-# validation-on-vue
+
 
 ## Project setup
 ```
@@ -10,15 +10,13 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Тестовое задание: Validation on Vue (Vue, Vuelidate, Sass) 
+# Описание задания
+- Дизайн и внешний вид формы вы выбираете самостоятельно. 
+- Использовать какие-либо сторонние (CSS/JS/Vue/Etc) библиотеки, кроме указанных в задании не разрашается. 
+- Необходимо осуществлять валидацию данных формы и выводить ошибки пользователю при их наличии. Место выведения, формат и текст вы определяете самостоятельно
+- При отсутствии ошибок, необходимо показать сообщение о том, что новый клиент успешно создан
+- Форма должна быть адаптивной
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
